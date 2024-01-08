@@ -4,6 +4,15 @@ Currently, I am a research associate in [Human Sensing Lab](http://humansensing.
 My research interest lies in computer vision and machine learning, particularly explainable machine learning, object detection and domain adaptation. Download [CV](https://docs.google.com/document/d/1sECpkWOLtU8t-p_ke64GyLMJn1OPrImYFdDrvn7IXn0/edit?usp=sharing).
 
 ## Publications
+[Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding](https://arxiv.org/pdf/2306.06094.pdf)  
+**Zeyi Huang**, Mu Cai, Yuheng Li, Haohan Wang, Yong Jae Lee <br>
+[Arxiv](https://arxiv.org/pdf/2306.06094.pdf), [Code](https://github.com/mu-cai/svg-llm)
+
+[A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](https://arxiv.org/pdf/2309.12530.pdf)  
+**Zeyi Huang**, Andy Zhou, Zijian Lin, Mu Cai, Haohan Wang<sup>†</sup>, Yong Jae Lee<sup>†</sup> <br>
+ICCV2023 <br>
+[Arxiv](https://arxiv.org/pdf/2309.12530.pdf), [Code](https://github.com/OoDBag/RISE)
+
 [The two dimensions of worst-case training and their integrated effect for out-of-domain generalization](https://arxiv.org/pdf/2204.04384.pdf)  
 **Zeyi Huang**<sup>*</sup>, Haohan Wang<sup>*</sup>, Dong Huang, Yong Jae Lee<sup>†</sup>, Eric P. Xing<sup>†</sup> <br>
 CVPR2022 <br>
@@ -29,15 +38,15 @@ Haohan Wang, Xindi Wu, **Zeyi Huang**, Eric P. Xing <br>
 CVPR2020(**Oral 5%**) <br> 
 [Arxiv](https://arxiv.org/pdf/1905.13545.pdf), [Code](https://github.com/HaohanWang/HFC)
 
-[Complementary Attention Self-Distillation for Weakly-Supervised Object Detection](https://arxiv.org/pdf/2010.12023.pdf)  
-**Zeyi Huang**<sup>*</sup>, Yang Zou<sup>*</sup>, B. V. K. Vijaya Kumar, Dong Huang <br>
-NeurIPS2020 <br>
-[Arxiv](), [Code]()
-
 [Multiple Anchor Learning for Visual Object Detection](https://arxiv.org/pdf/1912.02252.pdf)  
 Wei Ke, Tianliang Zhang, **Zeyi Huang**, Qixiang Ye, Jianzhuang Liu, Dong Huang  <br>
 CVPR2020 <br>
 [Arxiv](https://arxiv.org/pdf/1912.02252.pdf), [Code](https://github.com/CVPR765/MAL)
+
+[Complementary Attention Self-Distillation for Weakly-Supervised Object Detection](https://arxiv.org/pdf/2010.12023.pdf)  
+**Zeyi Huang**<sup>*</sup>, Yang Zou<sup>*</sup>, B. V. K. Vijaya Kumar, Dong Huang <br>
+NeurIPS2020 <br>
+[Arxiv](), [Code]()
 
 [Improving Object Detection with Inverted Attention](https://arxiv.org/pdf/1903.12255.pdf)  
 **Zeyi Huang**, Wei Ke, Dong Huang  <br>
