@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: [Zeyi Huang]
 description: zeyihuang (at) cs (dot) wisc (dot) edu
-logo: fig/huang3.JPG
+logo: fig/huang3.png
 show_downloads: false
 google_analytics:
 plugins:
