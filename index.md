@@ -1,7 +1,7 @@
 ## About Me
-Currently, I am a research associate in [Human Sensing Lab](http://humansensing.cs.cmu.edu/), [Robotics Institute of Carnegie Mellon University](https://www.ri.cmu.edu/), advised by [Dr. Dong Huang](https://www.donghuang-research.com/). I obtained my M.S. degree from the Robotics Institute of Carnegie Mellon University, and my B.E. degree from Nanjing University of Science and Technology, advised by [Prof. Hui Kong](https://sites.google.com/view/huikonglab/home?authuser=0).  
+I am a PhD student in Computer Science at University of Wisconsin-Madison, advised by Yong Jae Lee. Prior to UW Madison, I obtained my M.S. degree from the Robotics Institute of Carnegie Mellon University, and my B.E. degree from Nanjing University of Science and Technology.  
 
-My research interest lies in computer vision and machine learning, particularly explainable machine learning, object detection and domain adaptation. Download [CV](https://docs.google.com/document/d/1sECpkWOLtU8t-p_ke64GyLMJn1OPrImYFdDrvn7IXn0/edit?usp=sharing).
+My research interest lies in computer vision and machine learning, particularly in trustworthy machine learning. 
 
 ## Research
 [Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding](https://arxiv.org/pdf/2306.06094.pdf)  
