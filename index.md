@@ -6,6 +6,7 @@ My research interest lies in computer vision and machine learning, particularly 
 ## Publications
 [Complementary Attention Self-Distillation for Weakly-Supervised Object Detection](https://arxiv.org/pdf/2010.12023.pdf)  
 **Zeyi Huang**<sup>*</sup>, Yang Zou<sup>*</sup>, B. V. K. Vijaya Kumar, Dong Huang 
+NeurIPS2020
 [Code](),NeurIPS2020
 
 [Self-Challenging Improves Cross-Domain Generalization](https://arxiv.org/pdf/2007.02454.pdf)  
