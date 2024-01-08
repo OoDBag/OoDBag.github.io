@@ -3,9 +3,9 @@ Currently, I am a research associate in [Human Sensing Lab](http://humansensing.
 
 My research interest lies in computer vision and machine learning, particularly explainable machine learning, object detection and domain adaptation. Download [CV](https://docs.google.com/document/d/1sECpkWOLtU8t-p_ke64GyLMJn1OPrImYFdDrvn7IXn0/edit?usp=sharing).
 
-## Publications
+## Projects
 [Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding](https://arxiv.org/pdf/2306.06094.pdf)  
-**Zeyi Huang**, Mu Cai, Yuheng Li, Haohan Wang, Yong Jae Lee <br>
+**Zeyi Huang**<sup>*</sup>, Mu Cai<sup>*</sup>, Yuheng Li, Haohan Wang, Yong Jae Lee <br>
 [Arxiv](https://arxiv.org/pdf/2306.06094.pdf), [Code](https://github.com/mu-cai/svg-llm)
 
 [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](https://arxiv.org/pdf/2309.12530.pdf)  
