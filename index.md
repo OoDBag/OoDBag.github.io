@@ -4,9 +4,19 @@ Currently, I am a research associate in [Human Sensing Lab](http://humansensing.
 My research interest lies in computer vision and machine learning, particularly explainable machine learning, object detection and domain adaptation. Download [CV](https://docs.google.com/document/d/1sECpkWOLtU8t-p_ke64GyLMJn1OPrImYFdDrvn7IXn0/edit?usp=sharing).
 
 ## Publications
-[Complementary Attention Self-Distillation for Weakly-Supervised Object Detection](https://arxiv.org/pdf/2010.12023.pdf)  
-**Zeyi Huang**<sup>*</sup>, Yang Zou<sup>*</sup>, B. V. K. Vijaya Kumar, Dong Huang <br>
-NeurIPS2020 <br>
+[The two dimensions of worst-case training and their integrated effect for out-of-domain generalization](https://arxiv.org/pdf/2204.04384.pdf)  
+**Zeyi Huang**<sup>*</sup>, Haohan Wang<sup>*</sup>, Dong Huang, Yong Jae Lee<sup>†</sup>, Eric P. Xing<sup>†</sup> <br>
+CVPR2022 <br>
+[Arxiv](https://arxiv.org/pdf/2204.04384.pdf), [Code](https://github.com/OoDBag/W2D)
+
+[Toward learning robust and invariant representations with alignment regularization and data augmentation](https://dl.acm.org/doi/pdf/10.1145/3534678.3539438)  
+Haohan Wang, **Zeyi Huang**, Xindi Wu, Eric P. Xing <br>
+KDD2022 <br>
+[Arxiv](https://dl.acm.org/doi/pdf/10.1145/3534678.3539438), [Code](https://github.com/jyanln/AlignReg)
+
+[Toward learning human-aligned cross-domain robust models by countering misaligned features](https://proceedings.mlr.press/v180/wang22d/wang22d.pdf)  
+Haohan Wang, **Zeyi Huang**, Hanlin Zhang, Yong Jae Lee, Eric P. Xing <br>
+UAI2022 <br>
 [Arxiv](), [Code]()
 
 [Self-Challenging Improves Cross-Domain Generalization](https://arxiv.org/pdf/2007.02454.pdf)  
@@ -18,6 +28,11 @@ ECCV2020(**Oral 2%**) <br>
 Haohan Wang, Xindi Wu, **Zeyi Huang**, Eric P. Xing <br>
 CVPR2020(**Oral 5%**) <br> 
 [Arxiv](https://arxiv.org/pdf/1905.13545.pdf), [Code](https://github.com/HaohanWang/HFC)
+
+[Complementary Attention Self-Distillation for Weakly-Supervised Object Detection](https://arxiv.org/pdf/2010.12023.pdf)  
+**Zeyi Huang**<sup>*</sup>, Yang Zou<sup>*</sup>, B. V. K. Vijaya Kumar, Dong Huang <br>
+NeurIPS2020 <br>
+[Arxiv](), [Code]()
 
 [Multiple Anchor Learning for Visual Object Detection](https://arxiv.org/pdf/1912.02252.pdf)  
 Wei Ke, Tianliang Zhang, **Zeyi Huang**, Qixiang Ye, Jianzhuang Liu, Dong Huang  <br>
