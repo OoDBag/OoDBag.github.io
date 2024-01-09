@@ -3,7 +3,7 @@ I am a PhD student at Department of Computer Science department, University of W
 
 My research interest lies in computer vision and machine learning, particularly in trustworthy machine learning.
 
-[Email](zeyihuang@cs.wisc.edu) / [Google Scholar](https://scholar.google.com/citations?user=rMvdp7oAAAAJ&hl=en) 
+[Email](mailto:zeyihuang@cs.wisc.edu) / [Google Scholar](https://scholar.google.com/citations?user=rMvdp7oAAAAJ&hl=en) 
 
 ## Research
 [Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding](https://arxiv.org/pdf/2306.06094.pdf)  
