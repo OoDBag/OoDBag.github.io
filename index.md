@@ -10,10 +10,6 @@ My research interest lies in computer vision and machine learning, particularly 
 **Zeyi Huang**<sup>*</sup>, Yuyang Ji<sup>*</sup>, Xiaofang Wang, Nikhil Mehta, Tong Xiao, Donghyun Lee, Sigmund Vanvalkenburgh, Shengxin Zha, Bolin Lai, Licheng Yu, Ning Zhang, Yong Jae Lee<sup>†</sup>, Miao Liu<sup>†</sup> <br>
 [Arxiv](https://arxiv.org/pdf/2501.04336), [Code]()
 
-[Do Vision Models Develop Human-Like Progressive Difficulty Understanding?](https://openreview.net/pdf?id=frbfEqZX5R) <br>
-**Zeyi Huang**<sup>*</sup>, Utkarsh Ojha<sup>*</sup>, Yuyang Ji, Yong Jae Lee <br>
-[Arxiv](https://openreview.net/pdf?id=frbfEqZX5R), [Code]()
-
 [Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding](https://arxiv.org/pdf/2306.06094.pdf)  
 **Zeyi Huang**<sup>*</sup>, Mu Cai<sup>*</sup>, Yuheng Li, Haohan Wang, Yong Jae Lee <br>
 WACV2024 <br>
