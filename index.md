@@ -1,16 +1,16 @@
 ## About Me
-I am a PhD student at the Department of Computer Science, University of Wisconsin-Madison, advised by Yong Jae Lee. Prior to UW Madison, I obtained my M.S. degree from the Robotics Institute, Carnegie Mellon University, and my B.E. degree from Nanjing University of Science and Technology.  
+I am a PhD student at the Department of Computer Science, University of Wisconsin-Madison, advised by Yong Jae Lee. Prior to UW-Madison, I obtained my M.S. degree from the Robotics Institute, Carnegie Mellon University, and my B.E. degree from Nanjing University of Science and Technology.  
 
 My research interest lies in computer vision and machine learning, particularly in reliable machine learning.
 
 [Email](mailto:zeyihuang@cs.wisc.edu) / [Google Scholar](https://scholar.google.com/citations?user=rMvdp7oAAAAJ&hl=en) 
 
 ## Research
-[Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs](https://arxiv.org/pdf/2501.04336)
+[Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs](https://arxiv.org/pdf/2501.04336) <br>
 **Zeyi Huang**<sup>*</sup>, Yuyang Ji<sup>*</sup>, Xiaofang Wang, Nikhil Mehta, Tong Xiao, Donghyun Lee, Sigmund Vanvalkenburgh, Shengxin Zha, Bolin Lai, Licheng Yu, Ning Zhang, Yong Jae Lee<sup>†</sup>, Miao Liu<sup>†</sup> <br>
 [Arxiv](https://arxiv.org/pdf/2501.04336), [Code]()
 
-[Do Vision Models Develop Human-Like Progressive Difficulty Understanding?](https://openreview.net/pdf?id=frbfEqZX5R)
+[Do Vision Models Develop Human-Like Progressive Difficulty Understanding?](https://openreview.net/pdf?id=frbfEqZX5R) <br>
 **Zeyi Huang**<sup>*</sup>, Utkarsh Ojha<sup>*</sup>, Yuyang Ji, Yong Jae Lee <br>
 [Arxiv](https://openreview.net/pdf?id=frbfEqZX5R), [Code]()
 
