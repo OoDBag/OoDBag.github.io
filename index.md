@@ -6,8 +6,11 @@ My research interest lies in computer vision and machine learning, particularly 
 [Email](mailto:zeyihuang@cs.wisc.edu) / [Google Scholar](https://scholar.google.com/citations?user=rMvdp7oAAAAJ&hl=en) 
 
 ## Research
+
+
 [Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs](https://arxiv.org/pdf/2501.04336) <br>
 **Zeyi Huang**<sup>*</sup>, Yuyang Ji<sup>*</sup>, Xiaofang Wang, Nikhil Mehta, Tong Xiao, Donghyun Lee, Sigmund Vanvalkenburgh, Shengxin Zha, Bolin Lai, Licheng Yu, Ning Zhang, Yong Jae Lee<sup>†</sup>, Miao Liu<sup>†</sup> <br>
+CVPR2025 <br>
 [Arxiv](https://arxiv.org/pdf/2501.04336), [Code]()
 
 [Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding](https://arxiv.org/pdf/2306.06094.pdf)  
