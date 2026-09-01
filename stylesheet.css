@@ -165,6 +165,16 @@ section {
   font-style: italic;
 }
 
+.paper-highlight {
+  margin: 2px 0;
+  color: #287a78;
+  font-weight: 600;
+}
+
+.pending-links {
+  color: #929aa1;
+}
+
 .distinction {
   color: #9b3b37;
   font-style: normal;
