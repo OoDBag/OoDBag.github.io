@@ -49,7 +49,7 @@ a:focus-visible {
 
 .profile {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 240px;
+  grid-template-columns: minmax(0, 1fr) 180px;
   gap: 48px;
   align-items: center;
   margin-bottom: 48px;
@@ -211,7 +211,7 @@ footer {
 
   .profile-photo {
     order: 1;
-    width: min(100%, 220px);
+    width: min(100%, 165px);
     margin: 0 auto;
   }
 
